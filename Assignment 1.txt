@@ -1,0 +1,36 @@
+  Answers To The Assignment 
+
+1a.A static website displays fixed content to all users, stored in pre-built HTML files.
+ It's fast, secure, and low-maintenance, with no database or server-side rendering required.
+ Static websites are ideal for simple sites, blogs, and portfolios
+ EXAMPLE OF A STATIC WEBSITE IS:A personal portfolio website
+
+1b.A dynamic website generates content on the fly, tailored to individual users, using server-side scripting and databases. 
+It allows for real-time updates, user interactions, and personalized experiences.
+ Examples include social media platforms, e-commerce sites, and online forums.
+
+2.Here are 3 key differences between Git and GitHub:
+
+a. Git is a version control system: Git is a software tool that helps you manage changes to your codebase.
+b. GitHub is a hosting platform: GitHub is a web-based platform that allows you to host and manage your Git repositories.
+c. Git is local, GitHub is cloud-based: Git can be used locally on your machine,
+ while GitHub is a cloud-based service that allows collaboration and sharing of code with others.
+
+3.Block-level elements occupy the full width available to them and start on a new line.
+ They can contain other block-level elements and inline elements. Examples include:
+
+Block-Level Elements
+a. Occupy full width available
+b. Start on a new line
+c. Can contain other block-level and inline elements
+d. Examples: <div>, <p>, <h1>, <ul>
+
+Inline elements occupy only the space needed for their content and do not start on a new line.
+ They can contain other inline elements, but not block-level elements. Examples include:
+Inline Elements
+a. Occupy only the space needed for content
+b. Do not start on a new line
+c. Can contain other inline elements, but not block-level elements
+d. Examples: <span>, <a>, <img>, <strong>
+
+
